@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/asma1508/Asma](https://github.com/asma1508/Asma)
+- 👨‍💻 All of my projects are available at [https://github.com/asma1508/asma1508](https://github.com/asma1508/asma1508)
 
 - 💬 Ask me about **any tech related stuff**
 
